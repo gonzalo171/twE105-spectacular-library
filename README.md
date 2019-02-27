@@ -4,8 +4,8 @@ Gestión de bibliotecas
 
 ## Integrantes del equipo
 
-- Pamela Díaz Serrano pameladiazserrano
-- Blanca Expósito González blancaexpositogonzalez
+- Pamela Díaz Serrano @pameladiazserrano
+- Blanca Expósito González @blancaexpositogonzalez
 
 ## Objetivos del trabajo
 
