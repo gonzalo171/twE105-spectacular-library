@@ -1,6 +1,6 @@
 # Título del trabajo
 
-Gestión de bibliotecas
+Gestión de bibliotecas.
 
 ## Integrantes del equipo
 
